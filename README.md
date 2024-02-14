@@ -45,7 +45,7 @@ Key analyses performed on the painting data include:
 - Cleaning duplicate records 
 - Finding top cities for museums 
 
-All the analyses performed are stored as 'insight.sql' files.
+All the analyses performed are stored as Insights file. (Adding more insights consistently)
 
 ## Importing Data from csv files to postgreSQL Database
 
