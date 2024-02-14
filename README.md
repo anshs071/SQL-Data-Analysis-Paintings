@@ -59,4 +59,4 @@ To use this project:
 - Run the .sql files to execute the analysis queries
 - Modify queries and customize analyses as needed
 
-This project is licensed under the MIT License, allowing for the free use, modification, and distribution of the code. See the LICENSE file for more details.
+Feel free to look and customize this project!
