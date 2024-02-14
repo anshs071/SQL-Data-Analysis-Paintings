@@ -4,8 +4,8 @@ from sqlalchemy import create_engine
 # Define the connection string (replace placeholders with your actual database credentials)
 DB_USERNAME = 'your_username'
 DB_PASSWORD = 'your_password'
-DB_HOST = 'localhost'
-DB_NAME = 'painting_project'
+DB_HOST = 'suppose_localhost'
+DB_NAME = 'sql_painting_project'
 
 conn_string = f'postgresql://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}'
 
