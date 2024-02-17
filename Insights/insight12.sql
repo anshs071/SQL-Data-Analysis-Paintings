@@ -5,3 +5,4 @@ from artist as a
 join work as w on w.artist_id = a.artist_id
 group by a.artist_id, a.full_name
 order by paintings_done desc
+limit 5
